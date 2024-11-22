@@ -17,7 +17,7 @@ Get the current consumption rate and power status.
 
 
 # Installation
-##Prerequisites:
+Prerequisites:
 Python 3.x
 Required Python libraries (as specified in requirements.txt)
 ###Steps to Install:
@@ -31,7 +31,7 @@ git clone https://github.com/anmolrai853/Python-Smart-Home.git
 bash
 Copy code
 cd smart-home-controller
-###Install required dependencies:
+### Install required dependencies:
 
 bash
 Copy code
