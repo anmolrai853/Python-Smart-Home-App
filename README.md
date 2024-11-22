@@ -26,7 +26,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/yourusername/smart-home-controller.git
-###Navigate to the project directory:
+### Navigate to the project directory:
 
 bash
 Copy code
@@ -36,7 +36,7 @@ cd smart-home-controller
 bash
 Copy code
 pip install -r requirements.txt
-###Set up your devices by configuring the app and integrating them via the SmartPlug and SmartDoorbell classes.
+### Set up your devices by configuring the app and integrating them via the SmartPlug and SmartDoorbell classes.
 
 ###License
 This project is licensed under the MIT License. See the LICENSE file for more details.
