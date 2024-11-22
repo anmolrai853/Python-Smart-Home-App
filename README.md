@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/anmolrai853/Python-Smart-Home.git
+git clone https://github.com/anmolrai853/Python-Smart-Home-app.git
 ### Navigate to the project directory:
 
 bash
