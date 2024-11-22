@@ -38,7 +38,6 @@ Copy code
 pip install -r requirements.txt
 ### Set up your devices by configuring the app and integrating them via the SmartPlug and SmartDoorbell classes.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
